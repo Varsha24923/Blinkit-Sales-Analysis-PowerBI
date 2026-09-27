@@ -191,10 +191,10 @@ The dashboard can be used to identify:
 Blinkit-Sales-Analysis-PowerBI/
 
 ├── PowerBI/
-│   └── ["C:\Users\VARSHA S\OneDrive\Documents\Blinkit sales analysis.pbit"](https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Blinkit%20sales%20analysis.pbit)
+│   └── ["C:\Users\VARSHA S\OneDrive\Documents\Blinkit sales analysis.pbit](https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Blinkit%20sales%20analysis.pbit)
 │
 ├── Dashboard/
-│   └── [dashboard.png](https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Screenshot%202026-09-27%20192053.png)
+│   └── [dashboard.png]([https://(https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/dashboard.png))
 │
 └── Data/
     └── "C:\Users\VARSHA S\Downloads\BlinkIT Grocery Data.xlsx"
