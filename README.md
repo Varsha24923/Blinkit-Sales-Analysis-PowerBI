@@ -168,8 +168,7 @@ The project was completed through the following stages:
 
 ## 8. Dashboard Preview
 
-![Blinkit Dashboard](Dashboard/dashboard.png)
-
+![Blinkit Dashboard]([https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Screenshot%202026-09-27%20192053.png)]
 ---
 
 ## 9. Key Insights
@@ -195,7 +194,7 @@ Blinkit-Sales-Analysis-PowerBI/
 │   └── ["C:\Users\VARSHA S\OneDrive\Documents\Blinkit sales analysis.pbit"](https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Blinkit%20sales%20analysis.pbit)
 │
 ├── Dashboard/
-│   └── dashboard.png
+│   └── [dashboard.png](https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Screenshot%202026-09-27%20192053.png)
 │
 └── Data/
     └── "C:\Users\VARSHA S\Downloads\BlinkIT Grocery Data.xlsx"
