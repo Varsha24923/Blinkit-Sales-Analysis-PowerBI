@@ -169,7 +169,7 @@ The project was completed through the following stages:
 ## 8. Dashboard Preview
 
 ![Blinkit Dashboard]([https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Screenshot%202026-09-27%20192053.png)]
----
+
 
 ## 9. Key Insights
 
@@ -187,7 +187,7 @@ The dashboard can be used to identify:
 
 ## 10. Project Structure
 
-```text
+
 Blinkit-Sales-Analysis-PowerBI/
 
 ├── PowerBI/
