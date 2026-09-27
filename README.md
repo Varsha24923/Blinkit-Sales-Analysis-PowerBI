@@ -192,7 +192,7 @@ The dashboard can be used to identify:
 Blinkit-Sales-Analysis-PowerBI/
 
 ├── PowerBI/
-│   └── "C:\Users\VARSHA S\OneDrive\Documents\Blinkit sales analysis.pbit"
+│   └── ["C:\Users\VARSHA S\OneDrive\Documents\Blinkit sales analysis.pbit"](https://github.com/Varsha24923/Blinkit-Sales-Analysis-PowerBI/blob/main/Blinkit%20sales%20analysis.pbit)
 │
 ├── Dashboard/
 │   └── dashboard.png
